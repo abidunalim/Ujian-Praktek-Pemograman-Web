@@ -16,7 +16,7 @@ git Commit -m "first commit"
 git branch -M main
 
 
-git remote add origin https://github.com/abidunalim/Pemograman-Web.git
+git remote add origin https://github.com/abidunalim/Ujian-Praktek-Pemograman-Web.git
 
 
 git push -u origin main
